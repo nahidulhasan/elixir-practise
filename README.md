@@ -1,1 +1,1 @@
-# elixir-examples
+# Elixir Examples
